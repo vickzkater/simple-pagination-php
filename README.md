@@ -18,7 +18,7 @@ If you come across any issue/bug please [report them here](https://github.com/vi
 
 ## License
 
-The Helper PHP is open-sourced software built by KINIDI Tech and contributors and licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Simple Pagination PHP is open-sourced software built by KINIDI Tech and contributors and licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Credits
 
