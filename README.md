@@ -1,4 +1,4 @@
-<p align="center"><img src="https://hosting.kiniditech.com/simple-pagination-php.jpg" alt="KINDI Tech"></p>
+<p align="center"><img src="https://hosting.kiniditech.com/simple-pagination-php.jpg" alt="Simple Pagination PHP"></p>
 
 # Simple Pagination PHP
 
